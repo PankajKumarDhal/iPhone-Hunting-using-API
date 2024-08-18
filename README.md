@@ -28,5 +28,6 @@ This project is a simple mobile phone search application where users can search 
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/hot-gadgets.git
+   https://github.com/PankajKumarDhal/iPhone-Hunting-using-API.git
+   
 
